@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rakash
+- 👋 Hi, I’m Akash
 - 👀 I’m interested in Data Engineering, Machine Learning, Engineering Scalable Backends and Business Intelligence
 - 🌱 I’m currently learning GraphQL, Javacript and AWS
 - 💞️ I’m looking to collaborate on Open-source projects
